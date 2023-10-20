@@ -1,5 +1,5 @@
 #!name=喜马拉雅
-#!desc=TikTok 1.80+ Unlock
+#!desc=jiesuo
 #鸡神
 [URL Rewrite]
 ^http[s]?:\/\/openapi\.mysteel\.com/v5/getAdv.htm - reject
